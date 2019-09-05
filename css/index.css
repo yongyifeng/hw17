@@ -1,0 +1,90 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 5px;
+}
+
+.nav-item{
+    padding-right:20px;
+}
+.name{
+    font-size:16px;
+}
+.jumbotron{
+    margin:60px 60px 40px 50px;
+    height:72vh;
+    background: transparent;
+}
+.jumbocopy{
+    padding-top: 70px;
+    text-align:center;
+    
+}
+
+.project{
+    padding: 10px;
+}
+.cbg{
+    background-color:rgba(128, 128, 128, 0.082);
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.068), 0 6px 12px 0 rgba(0, 0, 0, 0.075);
+    align-items: center;
+}
+.text2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    position: relative;
+    top:-90px;
+}
+.button2{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:-80px;
+
+}
+.logo1{
+    width:300px;
+    padding:10px;
+
+}
+
+.logo2{
+    width:200px;
+    padding-top:25px;
+}
+.logo3{
+    width:150px;
+    padding-top:15px;
+}
+.logo4{
+    width:100px;
+    padding-top:20px;
+}
+.row{
+    margin-left:80px;
+}
+.container3{
+    padding-top:200px;
+    padding-bottom: 200px;
+    margin-top:100px;
+    margin-bottom: 50px;
+}
+.section3{
+    background-color:rgba(128, 128, 128, 0.082);
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.068), 0 3px 6px 0 rgba(0, 0, 0, 0.041);
+}
+.section4{
+    margin-bottom: 100px;
+}
+.b2t{
+    background-color:rgba(77, 77, 77, 0.5) !important;
+    border:none !important;
+}
+.ar{
+    color:rgba(0, 0, 0, 0.836) !important;
+}
+.mt{
+    padding-top:110px;
+}

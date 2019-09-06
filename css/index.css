@@ -92,7 +92,6 @@ nav{
 @media (max-width: 576px){
     .jumbotron{
         margin:0px 50px 0px 50px;
-        height:72vh;
         background: transparent;
     }
     .jumbocopy{
@@ -103,7 +102,7 @@ nav{
     .logo1{
         width:300px;
         padding-top: 20px;
-        padding-left:20px;
+        padding-left:40px;
     
     }
     
@@ -115,12 +114,12 @@ nav{
     .logo3{
         width:150px;
         padding-top:15px;
-        margin-left:50px;
+        margin-left:60px;
     }
     .logo4{
         width:100px;
         padding-top:20px;
-        margin-left:70px;
+        margin-left:80px;
         margin-bottom: 20px;
     }
     .text2{
